@@ -10,6 +10,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 If you would like to practice working with JSON data, we provide a local `data.json` file for the activities. This means you'll be able to pull the data from there instead of using the content in the `.html` file.
 
-[My solution #1](./design/solution1.jpg)
+My solution #1
+![My solution #1](./design/solution1.jpg)
 
-[My solution #2](./design/solution2.jpg)
+My solution #2
+![My solution #2](./design/solution2.jpg)
